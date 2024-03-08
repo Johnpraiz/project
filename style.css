@@ -1,0 +1,56 @@
+ul{
+    background-color:white;
+    text-decoration-color:rgba(227, 218, 218, 0.778);
+    text-size-adjust: 10px;
+}
+
+li{
+    text-size-adjust: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+div.single-album:hover{
+    background-color:rgba(0, 0, 0, 0.511);
+    width: 200px;
+    height:200px;
+    border-radius: 2%;
+}
+
+
+h5{
+    text-decoration:none;
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+p{
+    text-decoration: none;
+    text-align: justify;
+    text-shadow: 2cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.single-album img{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    box-sizing: border-box;
+}
+
+.single-album{
+    border-radius: 2px;
+    width: auto;
+    height: auto;
+}
